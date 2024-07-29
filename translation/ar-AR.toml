@@ -156,14 +156,14 @@ editing_paragraphs = [
 back = "Back"
 
 [play.guide.pieces]
-chancellor = {name="Chancellor", description="Moves like a rook and a knight combined."},
-archbishop = {name="Archbishop", description="Moves like a bishop and a knight combined."},
-amazon = {name="Amazon", description="Moves like a queen and a knight combined. This is the strongest piece in the game!"},
-guard = {name="Guard", description="Moves like a king, except it is not susceptible to check or checkmate."},
-hawk = {name="Hawk", description="Leaps exactly 2 or 3 squares in any direction."},
-centaur = {name="Hawk", description="Moves like a knight and a guard combined."},
-obstacle = {name="Obstacle", description="A neutral piece (not controlled by either player) that blocks movement, but can be captured."},
-void = {name="Void", description="A neutral piece (not controlled by either player) that represents the absence of board. Pieces may not move through or on top of it."},
+chancellor = {name="Chancellor", description="Moves like a rook and a knight combined."}
+archbishop = {name="Archbishop", description="Moves like a bishop and a knight combined."}
+amazon = {name="Amazon", description="Moves like a queen and a knight combined. This is the strongest piece in the game!"}
+guard = {name="Guard", description="Moves like a king, except it is not susceptible to check or checkmate."}
+hawk = {name="Hawk", description="Leaps exactly 2 or 3 squares in any direction."}
+centaur = {name="Hawk", description="Moves like a knight and a guard combined."}
+obstacle = {name="Obstacle", description="A neutral piece (not controlled by either player) that blocks movement, but can be captured."}
+void = {name="Void", description="A neutral piece (not controlled by either player) that represents the absence of board. Pieces may not move through or on top of it."}
 
 
 [play.play-menu]
@@ -310,7 +310,8 @@ bug_koth = "This is a bug, please report. Game ended by king of the hill."
 bug_generic = "This is a bug, please report!"
 
 [terms] # Translations are disabled for now, only language is en-US
-title = "Terms of Service"
+title = "شروط الخدمة"
+warning = ["THIS DOCUMENT IS NOT LEGALLY BINDING. We are only accountable for the English version of this document. This translation is provided solely for general informational purposes. You can access the official English version ", "here", "."]
 consent = "By using this site, you agree to abide by the following terms. If you do not agree, you must immediately stop using the site."
 guardian_consent = "If you are under 18, you must receive consent from a parent or legal guardian to use this site and to create an account."
 parents_header = "Parents"
