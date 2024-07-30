@@ -260,9 +260,9 @@ lost_connection = "Lost connection."
 please_wait = "Please wait a moment to perform this task."
 
 [play.javascript.results]
-you_checkmate = "You win by checkmate!"
-you_time = "You win on time!"
-you_resignation = "You win by resignation!"
+you_checkmate = "ربحت بالكش مات!"
+you_time = "ربحت بالوقت!"
+you_resignation = "ربحت بالانسحاب!"
 you_disconnect = "You win by abandonment!"
 you_royalcapture = "You win by royal capture!"
 you_allroyalscaptured = "You win by all royals captured!"
